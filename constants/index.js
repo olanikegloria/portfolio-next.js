@@ -19,6 +19,7 @@ import {
   niit,
   talksay,
   carrent,
+  creative,
   jobit,
   tripguide,
   threejs,
@@ -205,6 +206,27 @@ const projects = [
     image: carrent,
     source_code_link: "https://github.com/olanikegloria/js-game",
   },
+
+  {name: "Creative Builders",
+  description:
+    "Explore the modern website for Creative Builders, featuring a vibrant and dynamic color-changing navbar that enhances user interaction. The site captivates visitors with its rich visuals and engaging layout, creating an inviting online experience. This project not only highlights my design skills but also demonstrates my ability to blend aesthetics with functionality, making it a standout presence in the digital landscape.",
+  tags: [
+    {
+      name: "javascript",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "css and HTML",
+      color: "green-text-gradient",
+    },
+    {
+      name: "typescript",
+      color: "pink-text-gradient",
+    },
+  ],
+  image: creative,
+  source_code_link: "https://creative-builders.vercel.app/",
+},
   {
     name: "Brainwave",
     description:

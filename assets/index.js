@@ -33,6 +33,7 @@ import talksay from "./company/talksay.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import creative from "./creative.png";
 
 export {
   logo,
@@ -60,6 +61,7 @@ export {
   microverse,
   talksay,
   carrent,
+  creative,
   jobit,
   tripguide,
   winner,
